@@ -1,12 +1,12 @@
-title: Parchment
-author: pro-panda
-subtitle: A minimal jekyll theme
+title: Volkan Ozen
+author: Volkan
+subtitle: personal webpage
 
-url: "https://www.pro-panda.github.io"
+url: "https://www.volkanozen.github.io"
 baseurl: "/parchment"
 
-footer_url: "https://github.com/pro-panda"
-footer_text: "Theme by pro-panda"
+footer_url: "https://github.com/volkanozen"
+footer_text: "Volkan Ozen – MfN"
 
 profile-picture: assets/profile.jpg
 favicon_location: assets/favicon.ico
