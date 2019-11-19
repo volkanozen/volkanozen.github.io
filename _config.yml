@@ -21,7 +21,7 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "cv.pdf"
  - name: "Blog"
    link: "blog"
  
