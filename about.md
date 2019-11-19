@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
+
 
 I am a PhD student of Frei University Berlin. I am based at Museum für Naturkunde, Berlin, working within the P4 project. led by Dr. David B. Lazarus
 
