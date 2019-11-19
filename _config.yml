@@ -2,11 +2,11 @@ title: Volkan Ozen
 author: Volkan
 subtitle: personal webpage
 
-url: "https://volkanozen.github.io"
+url: https://volkanozen.github.io
 baseurl: ""
 
 
-footer_url: "https://github.com/volkanozen"
+footer_url: "https://volkanozen.github.io"
 footer_text: "Volkan Ozen – MfN"
 
 profile-picture: assets/profile.jpg
