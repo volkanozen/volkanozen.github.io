@@ -3,7 +3,8 @@ author: Volkan
 subtitle: personal webpage
 
 url: "https://www.volkanozen.github.io"
-baseurl: "/parchment"
+baseurl: ""
+
 
 footer_url: "https://github.com/volkanozen"
 footer_text: "Volkan Ozen – MfN"
