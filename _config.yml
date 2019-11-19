@@ -19,6 +19,9 @@ sass:
 
 navbar:
  - name: "About"
-   link: "about"
+   link: "about.md"
  - name: "Resume"
    link: "resume.pdf"
+ - name: "Blog"
+   link: "blog"
+ 
