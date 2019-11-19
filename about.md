@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Publications
 
-1. Identification of growing microorganisms in marine sediments under oxic and anoxic conditions through H218O quantitative DNA stable isotope probing.” Omer K. Coskun, ***Volkan Özen***, Scott D. Wankel, and William D. Orsi (DOI: https://doi.org/10.1038/s41396-019-0373-4 –the Nature ISME Journal)
+1. Identification of growing microorganisms in marine sediments under oxic and anoxic conditions through H218O quantitative DNA stable isotope probing.” Omer K. Coskun, ***Volkan Özen***, Scott D. Wankel, and William D. Orsi (DOI: [https://doi.org/10.1038/s41396-019-0373-4](https://www.nature.com/articles/s41396-019-0373-4) –the Nature ISME Journal)
 
 #### Conference Papers
 
