@@ -22,16 +22,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 2. "Interrogating the Palaeocene Palaeoclimate Paradox.” Michael J. Henehan, James Barnet, Noah J. Planavsky, KateLittler, Mathis P. Hain, Ellen Thomas, ***Volkan Özen***, Friedhelm von Blanckenburg, Pincelli M. Hull (Goldschmidt Conference, 2019)
 
-3. “Between a rock and a hard place: The history of Palaeocene ocean pH.” Miclael J. Henehan, Pincelli M. Hull, Noah J. Planavsky, Ellen Thomas, ***Volkan Özen*** (Goldschmidt Conference, 2015)
+3. “Between a rock and a hard place: The history of Palaeocene ocean pH.” Miclael J. Henehan, Pincelli M. Hull, Noah J. Planavsky, Ellen Thomas, ***Volkan Özen*** _(Goldschmidt Conference, 2015)_
 
 #### Popular Science *(in Turkish)*
 
-1. “Volcanism on Mars; Tharsis Region.” Volkan Özen (Turkish Astronomical Society Gökyüzü (Sky) Magazine, March-April 2016)
+1. “Volcanism on Mars; Tharsis Region.” ***Volkan Özen*** (Turkish Astronomical Society Gökyüzü (Sky) Magazine, March-April 2016)
 
-2. “Geology of Enceladus.” Volkan Özen (Turkish Astronomical Society Gökyüzü (Sky) Magazine, December 2015)
+2. “Geology of Enceladus.” ***Volkan Özen*** (Turkish Astronomical Society Gökyüzü (Sky) Magazine, December 2015)
 
-3. “Geology of Venus; Evidence of Active Volcanism.” 
+3. “Geology of Venus; Evidence of Active Volcanism.” ***Volkan Özen*** (Turkish Astronomical Society Gökyüzü (Sky) Magazine, September 2015)
 
-4. Volkan Özen (Turkish Astronomical Society Gökyüzü (Sky) Magazine, September 2015)
-
-5. “Pluton and It’s Geological Wonders.” Volkan Özen (Turkish Astronomical Society Gökyüzü (Sky) Magazine, August 2015)
+5. “Pluton and It’s Geological Wonders.” ***Volkan Özen*** (Turkish Astronomical Society Gökyüzü (Sky) Magazine, August 2015)
