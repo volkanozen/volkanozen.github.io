@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: FU Talk
 snippet: I will be giving a talk at FU
 tags: talk
