@@ -18,10 +18,12 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "About"
+ - name: "about"
    link: "about"
- - name: "Resume"
+ - name: "resume"
    link: "cv.pdf"
- - name: "Blog"
+ - name: "blog"
    link: "blog"
+ - name: "news"
+   link: "news" 
  
