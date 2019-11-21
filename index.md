@@ -2,6 +2,6 @@
 layout: default
 ---
 
-![](../assets/indexcover.jpg)
+![](../assets/indexcover.png)
 
 *The present may be the key to nothing at al. ––Anonymous*
