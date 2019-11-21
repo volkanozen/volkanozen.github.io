@@ -2,6 +2,6 @@
 layout: default
 ---
 
-![](../assets/indexcover.png)
+![](../assets/coverpage.jpg)
 
 *Artificia docuit fames.*
