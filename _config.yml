@@ -10,7 +10,7 @@ footer_url: "https://volkanozen.github.io"
 footer_text: "Volkan Özen – MfN Berlin"
 
 profile-picture: assets/profile.jpg
-favicon_location: assets/favicon.ico
+favicon_location: assets/Strabo.jpg
 
 permalink: /:year-:month-:day-:title/
 sass:
