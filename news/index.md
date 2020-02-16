@@ -5,7 +5,7 @@ layout: default
 
 #### Latest news
 
-*War on all fronts.*{: style="color: gray; opacity: 0.5;" }
+**[17/02/20]**{: style="color: gray; opacity: 1;" } I, with Dave, will be visiting the Lamont–Doherty Earth Observatory in New York during the first half of March.
 
 ---
 
