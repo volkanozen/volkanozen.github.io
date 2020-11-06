@@ -18,11 +18,15 @@ I am a PhD student of Freie University Berlin. I am based at Museum für Naturku
 
 #### Conference Papers
 
-1. Investigating the role of Southern Ocean phytoplankton in the end-Eocene climatic events.” ***Volkan Özen***, Gabrielle Rodrigues de Faria, Gayané Asatryan, Johan Renaudie & David B. Lazarus (Jahrestagung der Paläontologischen Gesellschaft 2019)
+1. "Southern Ocean diatom diversity across the Eocene-Oligocene transition." ***Volkan Özen***, Gabrielle Rodrigues de Faria, Johan Renaudie and David B. Lazarus _(TMS Annual Meeting 2020)_
 
-2. "Interrogating the Palaeocene Palaeoclimate Paradox.” Michael J. Henehan, James Barnet, Noah J. Planavsky, KateLittler, Mathis P. Hain, Ellen Thomas, ***Volkan Özen***, Friedhelm von Blanckenburg, Pincelli M. Hull (Goldschmidt Conference, 2019)
+2. "Cenozoic plankton diversity dynamics and the impact of macroevolution on the marine carbon cycle."  Johan Renaudie, David Lazarus, Sarah Trubovitz, ***Volkan Özen***, Gabrielle Rodrigues de Faria, Gayane Asatryan, and Paula Noble _(EGU 2020)_
 
-3. “Between a rock and a hard place: The history of Palaeocene ocean pH.” Miclael J. Henehan, Pincelli M. Hull, Noah J. Planavsky, Ellen Thomas, ***Volkan Özen*** _(Goldschmidt Conference, 2015)_
+3. "Investigating the role of Southern Ocean phytoplankton in the end-Eocene climatic events.” ***Volkan Özen***, Gabrielle Rodrigues de Faria, Gayané Asatryan, Johan Renaudie & David B. Lazarus _(Jahrestagung der Paläontologischen Gesellschaft 2019)_
+
+4. "Interrogating the Palaeocene Palaeoclimate Paradox.” Michael J. Henehan, James Barnet, Noah J. Planavsky, KateLittler, Mathis P. Hain, Ellen Thomas, ***Volkan Özen***, Friedhelm von Blanckenburg, Pincelli M. Hull _(Goldschmidt Conference, 2019)_
+
+5. “Between a rock and a hard place: The history of Palaeocene ocean pH.” Miclael J. Henehan, Pincelli M. Hull, Noah J. Planavsky, Ellen Thomas, ***Volkan Özen*** _(Goldschmidt Conference, 2015)_
 
 #### Popular Science *(in Turkish)*
 
